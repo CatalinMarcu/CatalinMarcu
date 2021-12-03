@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @CatalinMarcu
+- 👀 I’m interested in many types of practical engineering.
+- 🌱 I’m currently learning Angular, .NET Core, English
+- 💞️ I’m looking to collaborate on software dev
+- 📫 How to reach me: catalin.marcu77@yahoo.com
